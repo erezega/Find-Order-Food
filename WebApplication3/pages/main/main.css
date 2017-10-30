@@ -1,0 +1,156 @@
+body {
+    background-image:url("../../img/background.png");
+    background-size: 120% 125%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+hr { 
+    width: 95%;
+    margin-bottom: 2px !important;
+    background-color: lightgray !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+/*.navbar-custom {*/
+    /*background-color:#d4c287;*/
+    /*background-image: none;*/
+    /*background-repeat: no-repeat;*/
+/*}*/
+
+.websiteImg {
+    width: 60px;
+    height: 40px;
+    margin-top: -10px;
+}
+
+.input-group {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.media {
+    margin-top: -1px !important;
+}
+
+.media-heading {
+    font-size: 20px;
+}
+
+.order_li {
+     padding: 4px;
+     width: 30%;
+}
+
+.rating {
+    padding-left: 10px;
+}
+
+.dishImg {
+    height: 150px;
+}
+
+.container {
+     margin-left: 43% !important;
+     margin-top: -10% !important;
+}
+
+.count-input {
+  position: relative;
+  width: 100%;
+  max-width: 165px;
+  margin: 10px 0;
+}
+
+.count-input input {
+  width: 60%;
+  height: 37px;
+  border: 1px solid #000;
+  border-radius: 2px;
+  background: none;
+  text-align: center;
+}
+
+.count-input .incr-btn {
+  display: block;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  font-size: 26px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 30px;
+  top: 45%;
+  right: 65px;
+  margin-top: -32px;
+  text-decoration:none;
+}
+
+.count-input .incr-btn:first-child {
+  right: auto;
+  left: 0;
+  top: 46%;
+}
+
+.dishTotalPrice {
+    width: 100px;
+
+}
+
+#navbar {
+    width:100%;
+    position:fixed;
+}
+
+#signInMenu {
+    height: 150px;
+    background-color: white;
+    padding: 15px;
+    padding-bottom: 0px;
+    border-color: gray;
+    border-width: 2px;
+}
+
+#signUpMenu {
+    height: 150px;
+    background-color: white;
+    padding: 15px;
+    padding-bottom: 0px;
+    border-color: gray;
+    border-width: 2px;
+}
+
+#signInButton {
+    width: 150px;
+    background-color: #333;
+    color: white;
+}
+
+#searchBar {
+    width: 500px;
+    height: 60px;
+    font-size: 18px;
+    background-color: #fbf9f4;
+    border-color: #333;
+}
+
+#searchButton {
+    width: 60px;
+    height: 60px;
+    background-color: #333;
+    color: white;
+}
+
+#dishesObjects {
+     width: 45%;
+     /*max-height: 380px;*/ /* Handle in code behind*/
+     margin: auto;
+     overflow-y: scroll;
+     padding-top: 5px;
+     border: 3px solid #cdd2d5;
+     background-color: #e9ebec;
+}
+
+

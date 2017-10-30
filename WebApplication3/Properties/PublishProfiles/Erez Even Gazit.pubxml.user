@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Erez Even-Gazit\Desktop\test</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>12/24/2016 00:41:23</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>12/24/2016 00:41:23</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>10/12/2015 16:55:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>07/12/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>06/06/2016 15:40:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>06/06/2016 10:45:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>06/06/2016 10:42:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 03:06:24</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>06/17/2016 18:29:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 21:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/WebApplication3.dll">
+      <publishTime>05/18/2017 22:55:11</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css">
+      <publishTime>12/24/2016 00:43:45</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>07/25/2016 15:53:28</publishTime>
+    </File>
+    <File Include="css/metro-colors.min.css">
+      <publishTime>12/24/2016 00:43:45</publishTime>
+    </File>
+    <File Include="css/metro-icons.min.css">
+      <publishTime>12/24/2016 00:43:45</publishTime>
+    </File>
+    <File Include="css/metro-responsive.min.css">
+      <publishTime>12/24/2016 00:43:45</publishTime>
+    </File>
+    <File Include="css/metro-rtl.min.css">
+      <publishTime>12/24/2016 00:43:45</publishTime>
+    </File>
+    <File Include="css/metro-schemes.min.css">
+      <publishTime>03/03/2017 17:07:52</publishTime>
+    </File>
+    <File Include="css/metro.min.css">
+      <publishTime>05/16/2017 14:49:36</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="fonts/metro.eot">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="fonts/metro.svg">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="fonts/metro.ttf">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="fonts/metro.woff">
+      <publishTime>12/24/2016 00:43:59</publishTime>
+    </File>
+    <File Include="img/background.png">
+      <publishTime>04/24/2017 22:59:56</publishTime>
+    </File>
+    <File Include="img/logo.PNG">
+      <publishTime>05/10/2017 23:29:19</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>12/24/2016 00:44:39</publishTime>
+    </File>
+    <File Include="js/jquery-3.1.1.min.js">
+      <publishTime>12/24/2016 00:44:39</publishTime>
+    </File>
+    <File Include="js/metro.min.js">
+      <publishTime>12/24/2016 00:44:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/24/2016 13:16:45</publishTime>
+    </File>
+    <File Include="pages/cookPage/bootstrap.min.css">
+      <publishTime>05/16/2017 18:32:39</publishTime>
+    </File>
+    <File Include="pages/cookPage/cookPage.aspx">
+      <publishTime>05/16/2017 21:00:56</publishTime>
+    </File>
+    <File Include="pages/cookPage/cookPage.css">
+      <publishTime>05/16/2017 20:30:42</publishTime>
+    </File>
+    <File Include="pages/main/main.aspx">
+      <publishTime>05/15/2017 13:14:31</publishTime>
+    </File>
+    <File Include="pages/main/main.css">
+      <publishTime>05/14/2017 19:00:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/18/2017 22:55:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
